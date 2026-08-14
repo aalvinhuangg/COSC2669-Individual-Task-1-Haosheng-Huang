@@ -6,7 +6,7 @@ This repository contains the Jupyter notebook used for the machine learning anal
 Haosheng Huang (s3953399)
 
 ## Contents
-- `IT1 - Haosheng.ipynb` — This is the Python notebook containing the Decision Tree and Logistic Regression models that was applied to the two music streaming datasets.
+- `IT1 - Haosheng.ipynb`: This is the Python notebook containing the Decision Tree and Logistic Regression models that was applied to the two music streaming datasets.
 
 ## Datasets Used
 The datasets used in this analysis are publicly available on Kaggle and are not included in this repository due to file size:
